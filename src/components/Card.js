@@ -13,13 +13,13 @@ function Card() {
               src='images/weatherdashboard.jpg'
               text='This application allows users to generate a 5-day forecast for a searched city.'
               label='Weather Forecast'
-              path='/portfolio'
+              link='https://areye022.github.io/weather-dashboard/'
             />
             <CardItem
               src='images/healthapp.jpg'
               text='This application allows a user to search for local health-oriented business based on individual needs and goals.'
               label='Healthapp'
-              path='/portfolio'
+              link='https://mhans003.github.io/healthapp/index.html'
             />            
           </ul>
           <ul className='cards__items'>
@@ -27,25 +27,25 @@ function Card() {
               src='images/fitnesstracker.JPG'
               text='This Fitness Tracker allows users to add new workouts, and keep track of progess.'
               label='Fitness'
-              path='/portfolio'
+              link='https://dry-sands-32009.herokuapp.com/'
             />  
             <CardItem
               src='images/wanderlust.jpg'
               text='This application allows users to generate an a list of destinations they would like to travel to.'
               label='Adventure'
-              path='/portfolio'
+              link='https://glacial-hamlet-00150.herokuapp.com/'
             />
             <CardItem
               src='images/notetaker.jpg'
               text='This application allows users to write, save, and delete notes.'
               label='Notetaker'
-              path='/portfolio'
+              link='https://desolate-reef-28035.herokuapp.com/'
             />
             <CardItem
               src='images/workdayscheduler.jpg'
               text='This application allows users to generate a daily work schedule.'
               label='Workday Scheduler'
-              path='/portfolio'
+              link='https://areye022.github.io/workdayscheduler/'
             />
           </ul>
         </div>
