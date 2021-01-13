@@ -5,6 +5,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from './components/pages/Home'
 import Portfolio from './components/pages/Portfolio'
+import About from './components/pages/About';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Switch>
           <Route path="/" exact component={Home} />
           <Route path="/portfolio" component={Portfolio} />
+          <Route path="/about" component={About} />
         </Switch>
       </Router>
     </>

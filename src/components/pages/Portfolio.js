@@ -2,7 +2,7 @@ import '../../App.css'
 import Card from '../Card';
 
 
-function portfolio() {
+function Portfolio() {
     return(
         <>
         <Card />
@@ -10,4 +10,4 @@ function portfolio() {
     );
 }
 
-export default portfolio;
+export default Portfolio;
