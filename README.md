@@ -2,8 +2,6 @@
 
 ### Deployed Application 
 
-[Responsive Portfolio](https://areye022.github.io/react-portfolio/)
-
 ![Screenshot of responsive portfolio](./public/images/port1.JPG)
 ![Screenshot of responsive portfolio](./public/images/port2.JPG)
 
