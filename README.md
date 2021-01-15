@@ -2,6 +2,8 @@
 
 ### Deployed Application 
 
+[Responsive Portfolio](https://glacial-beyond-52105.herokuapp.com/)
+
 ![Screenshot of responsive portfolio](./public/images/port1.JPG)
 ![Screenshot of responsive portfolio](./public/images/port2.JPG)
 
