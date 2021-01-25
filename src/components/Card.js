@@ -26,7 +26,7 @@ function Card() {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/fitnesstracker.JPG'
+              src='images/fitnesstracker.jpg'
               text='This Fitness Tracker allows users to add new workouts, and keep track of progess.'
               label='Fitness'
               link='https://dry-sands-32009.herokuapp.com/'
