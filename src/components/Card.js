@@ -10,11 +10,11 @@ function Card() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/weatherdashboard.jpg'
-              text='This application allows users to generate a 5-day forecast for a searched city.'
-              label='Weather Forecast'
-              link='https://areye022.github.io/weather-dashboard/'
-              alt='image of weatherdashboard'
+              src='images/chitterchatter.jpg'
+              text='Morale booster applications that allows users to send public recognition and direct messages'
+              label='Chitter Chatter'
+              link='https://chitter-chatter-chats.herokuapp.com/'
+              alt='image of chitter-chatter application'
             />
             <CardItem
               src='images/healthapp.jpg'
@@ -22,7 +22,14 @@ function Card() {
               label='Healthapp'
               link='https://mhans003.github.io/healthapp/index.html'
               alt='image of healthapp'
-            />            
+            />  
+            <CardItem
+              src='images/weatherdashboard.jpg'
+              text='This application allows users to generate a 5-day forecast for a searched city.'
+              label='Weather Forecast'
+              link='https://areye022.github.io/weather-dashboard/'
+              alt='image of weatherdashboard'
+            />          
           </ul>
           <ul className='cards__items'>
             <CardItem
@@ -32,13 +39,6 @@ function Card() {
               link='https://dry-sands-32009.herokuapp.com/'
               alt='image of fitnesstracker'
             />  
-            <CardItem
-              src='images/wanderlust.jpg'
-              text='This application allows users to generate an a list of destinations they would like to travel to.'
-              label='Adventure'
-              link='https://glacial-hamlet-00150.herokuapp.com/'
-              alt='image of bucketlistapp'
-            />
             <CardItem
               src='images/notetaker.jpg'
               text='This application allows users to write, save, and delete notes.'
@@ -52,6 +52,13 @@ function Card() {
               label='Workday Scheduler'
               link='https://areye022.github.io/workdayscheduler/'
               alt='image of workday scheduler'
+            />
+             <CardItem
+              src='images/wanderlust.jpg'
+              text='This application allows users to generate an a list of destinations they would like to travel to.'
+              label='Adventure'
+              link='https://glacial-hamlet-00150.herokuapp.com/'
+              alt='image of bucketlistapp'
             />
           </ul>
         </div>
