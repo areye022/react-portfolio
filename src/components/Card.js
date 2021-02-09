@@ -10,7 +10,7 @@ function Card() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/chitterchatter.jpg'
+              src='images/chitterchatter.JPG'
               text='Morale booster applications that allows users to send public recognition and direct messages'
               label='Chitter Chatter'
               link='https://chitter-chatter-chats.herokuapp.com/'
