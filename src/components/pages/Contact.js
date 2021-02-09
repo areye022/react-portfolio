@@ -4,6 +4,7 @@ import Button from 'react-bootstrap/Button';
 import Hero from '../Hero';
 import Content from '../Content';
 import Axios from 'axios';
+import StickyFooter from "../StickyFooter"
 
 class Contact extends React.Component {
 
@@ -67,7 +68,10 @@ class Contact extends React.Component {
     render() {
         return(
             <div>
-                <Hero title={this.props.title} />
+                <br/>
+                <h1>Contact</h1>
+                <hr></hr>
+
 
                 <Content>
                     <Form onSubmit={this.handleSubmit}>
@@ -98,6 +102,7 @@ class Contact extends React.Component {
                         {this.state.emailSent === false && <p className="d-inline err-msg">Email Not Sent</p>}
                     </Form>
                 </Content>
+                <StickyFooter />
             </div>
         );
     }

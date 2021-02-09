@@ -1,0 +1,16 @@
+.footer-main{
+    background-color:lightskyblue;
+    text-align:center;
+    height:40px;
+    width:100%;
+    clear:both;
+    margin-bottom: 0px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    overflow: hidden;
+    background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
+    color:#fff;
+    font-size: 1.2rem;
+
+}

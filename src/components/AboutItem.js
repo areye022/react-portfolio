@@ -6,20 +6,20 @@ function AboutItem(props) {
     <>
       <div>
             <div className="row">
-            <div className='col-md-12'>
+            <div className='col-md-10'>
                 <img src={props.src} alt={props.alt} style={props.style}/>
             </div>  
             </div>
             
             <div className="row">
-            <div className='col-md-12'>
+            <div className='col-md-10'>
                 <h1 className='display-4'>Alejandra Reyes</h1>
                 <hr></hr>
             </div>
             </div>
 
             <div className='row'>
-            <div className='col-md-12'>
+            <div className='col-md-10'>
                 <p>Hello! Welcome to my portfolio website. My name is Alejandra Reyes, and I am 
                     currently a student at the UCR Extension's Coding Bootcamp. I graduated with 
                     my B.A. in Business Economics from the University of California, Riverside in
